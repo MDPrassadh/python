@@ -56,3 +56,7 @@ output---like this means
 
 for i,j in {2: 'xy', 25: 'mahesh', 5: 'arjun', 6: 100}.items():
         print(i,j)
+
+
+
+

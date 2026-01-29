@@ -21,7 +21,6 @@ print(b)
 40
 20
 30
-
 c=(1,2,3)
 print(c)
 
@@ -59,4 +58,6 @@ print(arun_kumar123)  #1000 its valid through (alphabates , numbers and undersco
 
 mdp=15
 print(id(mdp))  # 140719680812600 it used for memory location
+
+
 

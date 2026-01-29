@@ -53,3 +53,13 @@ for i in r:
 7
 9
 
+L=[8,3,5,15]
+for i in L:
+    print(i)
+    
+output--
+8
+3 
+5 
+15
+    
