@@ -63,3 +63,47 @@ for i in L:
 5 
 15
     
+
+---Nested for loop------------
+
+for i in (0,5):
+    for j in (0,3):
+        print(i,j)
+        
+output---------
+& C:/Users/Admin/AppData/Local/Python/pythoncore-3.14-64/python.exe "d:/PYTHON-PRACTICE/16 while-loop-condition.py"
+0 0
+0 3
+5 0
+5 3
+
+for loop with list------
+a=[8,4,59,23]  # list we can take here unorder result also
+for i in a:
+     print(i)
+     
+--output------
+PS D:\PYTHON-PRACTICE> & C:/Users/Admin/AppData/Local/Python/pythoncore-3.14-64/python.exe "d:/PYTHON-PRACTICE/16 while-loop-condition.py"
+8
+4
+59
+23
+PS D:\PYTHON-PRACTICE> 
+
+for loop with string------
+
+a="prassadh"
+for i in a:
+    print(i)
+
+--output---------
+& C:/Users/Admin/AppData/Local/Python/pythoncore-3.14-64/python.exe "d:/PYTHON-PRACTICE/16 while-loop-condition.py"
+p
+r
+a
+s
+s
+a
+d
+h
+PS D:\PYTHON-PRACTICE> 
