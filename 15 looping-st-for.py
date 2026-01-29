@@ -57,7 +57,7 @@ L=[8,3,5,15]
 for i in L:
     print(i)
     
-output--
+# output--
 8
 3 
 5 
